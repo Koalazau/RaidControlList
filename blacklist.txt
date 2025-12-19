@@ -1,0 +1,4 @@
+# Blacklist for auto-kicking players from raid
+# One name per line (case-sensitive)
+# Lines starting with # are comments
+Bemai
