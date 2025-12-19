@@ -2,6 +2,6 @@
 # One name per line (case-sensitive)
 # Lines starting with # are comments
 Koala
-playertest
-SecondTest
+Galaxya
+Gimpi
 ThirdTest
