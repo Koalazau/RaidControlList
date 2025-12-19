@@ -27,7 +27,7 @@ Birdbot
 Cactus
 Elutheria
 Kelwyn
-Koalatest
+Koala
 Lanzyo
 Wendy
 Blanco
