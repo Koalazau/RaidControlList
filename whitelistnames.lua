@@ -8,4 +8,12 @@ RaidControl.Whitelist = RaidControl.Whitelist or {}
 -- Add player names to this list (case-sensitive)
 RaidControl.Whitelist.names = {
     "Koala",
+    "playertest",
+    "playertest",
+    "playertest",
+    "playertest",
+    "playertest",
+    "playertest",
+    "playertest",
+    "playertest",
 }
