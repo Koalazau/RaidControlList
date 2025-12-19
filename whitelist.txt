@@ -50,4 +50,4 @@ Ketchup
 Pabble
 Seori
 Soyabean
-Relic
+RelicRelic
