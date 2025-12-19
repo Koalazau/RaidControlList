@@ -16,4 +16,12 @@ RaidControl.Whitelist.names = {
     "playertest",
     "playertest",
     "playertest",
+    "SecondTest",
+    "SecondTest",
+    "SecondTest",
+    "SecondTest",
+    "SecondTest",
+    "SecondTest",
+    "SecondTest",
+    "SecondTest",
 }
