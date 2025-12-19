@@ -1,0 +1,7 @@
+# Whitelist for Raid Lock feature
+# One name per line (case-sensitive)
+# Lines starting with # are comments
+Koala
+playertest
+SecondTest
+ThirdTest
